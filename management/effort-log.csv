@@ -1,0 +1,63 @@
+Date,Effort,Developers,Milestones
+09/02,0.5,nj2317, Setup Github repo and initial commit
+11/02,2,nj2317, Created Lexer & added some regexes to it
+11/02,2,fth2817, Added keywords to lex as well as created the yacc file
+12/02,1.5,fth2817, Added character constants and string literals to yacc
+12/02,1,nj2317, Added tokens to the lexer
+13/02,3,fth2817, Moved constants from yacc to lex. Implemented other constants
+15/02,0.5,fth2817, Added some preprocessing-tokens
+18/02,0.5,fth2817, Fixed a few problems with the lexer
+19/02,2,fth2817, Added most of the yacc and a few missing tokens
+20/02,4,nj2317, Attempted to create nodes for the ast tree
+20/02,4,fth2817, Attempted to create nodes for the ast tree
+21/02,1.5,nj2317, Worked on trying to compile the parser and lexer
+21/02,1.5,fth2817, Worked on trying to compile the parser and lexer
+24/02,1,nj2317, Worked on mangement section
+24/02,1,fth2817, Worked on management section
+26/02,0.5,fth2817, Added binary operator class
+27/02,1,nj2317, Started working on Expression class
+27/02,2,fth2817, Added more classes as well as work on the parser
+01/03,2,nj2317, Added parser and loop to yacc
+01/03,2,fth2817, Added more classes eg loops and selection class
+02/03,4,nj2317, Added more classes and implemented them in yacc
+02/03,4,fth2817, Added more classes and implemented them in yacc
+03/03,2,nj2317, Added more classes as well as looking at python
+03/03,3,fth2817, Added more classes as well as looking at python
+05/03,1.5,nj2317, Added more implementations to parser
+05/03,2,fth2817, Added missing classes and completed the parser
+06/03,3,nj2317, Updated Makefile
+06/03,5,fth2817, Tried to get the makefile to work with the classes as well as fixing problems in yacc
+07/03,6,nj2317, Fixed errors while compiling parser
+07/03,7,fth2817, Error fixing
+08/03,4,nj2317, Tried to figure out why the program would not compile
+08/03,6,fth2817, Tried to figure out why the program would not compile
+09/03,3,nj2317, Trying to create AST as well as starting on python translation
+09/03,3,fth2817, Trying to create AST as well as starting on python translation
+10/03,4,fth2817, Trying to create AST as well as trying to fix the error during linking
+12/03,0.5,fth2817, Bug fixing in tree building
+13/03,6,nj2317, Worked on pyprint
+13/03,4,fth2817, Worked on ast and pyprint
+14/03,2,nj2317, Debugging List & TopNode AST
+14/03,2,fth2817, Debugging List & TopNode AST
+15/03,2,nj2317, Started writing Python
+15/03,2,fth2817, Started writing Python
+16/03,10,nj2317, Finished off most of Python Print
+16/03,10,fth2817, Finished off most of Python Print
+18/03,2,nj2317, Started Bindings & Setup class
+18/03,3,fth2817, Worked on Python Print
+19/03,4,nj2317, Worked on MIPS codegen
+19/03,5,fth2817, Worked on Python issues and MIPS
+20/03,2,nj2317, Finished Python Translator
+20/03,5,fth2817, Finished Python Translator
+21/03,6,nj2317, Finished mandatory testsuite and worked on variables in MIPS and updated management
+21/03,5,fth2817, Worked on MIPS and Bash for MIPS Generator
+22/03,8,nj2317, Worked on MIPS global and local variables and adding ABI calls
+22/03,6,fth2817, Worked on MIPS global and local variables and adding ABI calls
+23/03,5,nj2317, Worked on arithmetic expressions on MIPS
+23/03,7,fth2817, Worked on arithmetic expressions on MIPS
+24/03,12,nj2317, Finished arithmetic & logical operators and if & while conditions
+24/03,12,fth2817, Finished arithmetic & logical operators and if & while conditions
+25/03,13.5,nj2317, Finished basic codegen & few intermediates
+25/03,13.5,fth2817, Finished basic codegen & few intermediates
+26/03,13.5,nj2317, Worked on ternary and unary operators and conditional assign statements and for loops and function calls and tried switch statements
+26/03,13.5,fth2817, Worked on for loops and function calls and passing parameters and tried switch statements

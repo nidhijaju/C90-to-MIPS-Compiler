@@ -1,0 +1,9 @@
+Week,    DateRange,          PlannedEffort,  ActualEffort,  OtherDeadlines
+ 4, 28th Jan -  3rd Feb,                 0,             0, LangProc Lab 1
+ 5,  4th Feb - 10th Feb,                 4,             0, Distributed Systems CW
+ 6, 11th Feb - 17th Feb,                12,          10.5, Databases CW 1 & LangProc Lab 2 & COMMS Lab Orals
+ 7, 18th Feb - 24th Feb,                12,          13.5, 
+ 8, 25th Feb -  3rd Mar,                20,          20.5, Databases CW 2 & LangProc Test 1 & LangProc Lab 3
+ 9,  4th Mar - 10th Mar,                30,            44, LangProc Test 2
+10, 11th Mar - 17th Mar,                40,          38.5, LangProc Test 3
+11, 18th Mar - 26th Mar,                60,           136, Maths CW & Mandarin Exams

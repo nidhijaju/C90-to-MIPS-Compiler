@@ -1,0 +1,13 @@
+bin/*
+*.exe
+*.o
+src/*.yy.cpp
+src/*.log
+src/*.tab.hpp
+src/*.tab.cpp
+src/*.output
+src/c_compiler
+logs/*.txt
+*.log
+.vagrant
+*.json

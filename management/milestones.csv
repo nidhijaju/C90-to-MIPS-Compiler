@@ -1,0 +1,15 @@
+MilestoneID,Dependencies,EstimatedEffort,Lead,Completed,Description
+DefineInitialMilestones,-,1,fth2817 & nj2317,11/02,Come up with initial milestones for getting started
+Finished Lexer,Labs,3,fth2817 & nj2317,13/02,Create Lexer by looking at C89 Spec
+Finised Basic Parser,Lexer & Labs,3,fth2817,19/02,Create Parser according to C89 Spec
+Planned AST Classes & Implementations,Labs & Parser,9,fth2817 & nj2317,05/03,Go through Yacc & implement classes according to ast tree as needed
+Compiled Lex & Yacc together,Lexer & Parser & AST,3,fth2817 & nj2317,14/03,Create executable for c_compiler (Note: This took us much longer than expected as there were linking errors that we could not solve)
+Finished Python Translator,AST Implementations,13,fth2817 & nj2317,20/03,Follow translator spec on github & implement according to ast tree
+MIPS ABI Calls,-,2,fth2817 & nj2317,22/03,Look at MIPS V ABI Spec & Compiler Explorer to understand and implement necessary directives
+Codegen for empty functions and variable declarations,AST Implementations,4,fth2817 & nj2317,22/03,Run empty function with no parameters & declaring int variables
+Codegen for basic arithmetics,AST,7,fth2817 & nj2317,24/03,Run simple arithmetic operations
+Codegen for Loops & Conditionals,AST & arithmetic codegen,4,fth2817 & nj2317,26/03,Run while/if/for loops including conditional statements & turnery
+Codegen for break and continue,AST,1,fth2817 & nj2317,25/03,Implement break & continue within serveral loops/switch
+Codegen for function calls and parameters,AST,5,fth2817 & nj2317,26/03,Run multiple and recursive function calls & pass up to 4 parameters (tried for more so few modifications will be able to do that)
+Codegen for Switch statements,AST,2,fth2817 & nj2317,-,Implement switch and case statements (Note: This almost worked but has a minor issue with segmentation faults)
+Codegen for arrays and enum,AST,6,fth2817 & nj2317,-,Implement arrays and enums both globally and locally (Were not able to get to this unfortunately)
