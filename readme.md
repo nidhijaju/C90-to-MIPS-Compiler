@@ -40,4 +40,4 @@ order, and that there will be no spaces in source or destination paths.
 
 Acknowledgements
 ---------------------------
-The project was done in collaboration with Toby Hilier (tobhil98) and supervised by Dr. John Wickerson.
+The project was done in collaboration with Toby Hillier (tobhil98) and supervised by Dr. John Wickerson.
